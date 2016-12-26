@@ -1,0 +1,11 @@
+PROGRAM Less(INPUT, OUTPUT);
+VAR
+  Ch:CHAR;
+BEGIN
+  WHILE NOT EOLN
+  DO
+    BEGIN
+      READ(Ch)
+    END;
+  WRITELN(Ch)
+END.

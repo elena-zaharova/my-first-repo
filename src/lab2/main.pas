@@ -1,7 +1,7 @@
 PROGRAM SarahRevere(INPUT, OUTPUT);
 VAR
   W1, W2, W3, W4, Looking: CHAR;
-BEGIN {SarahRevere}
+BEGIN {SarahRever12e}
   BEGIN
     W1 := ' ';
     W2 := ' ';
@@ -35,7 +35,7 @@ BEGIN {SarahRevere}
   BEGIN
     IF Looking = 'L'
     THEN
-      WRITELN('The British are coming by land.')
+      WRITELN('The beautiful British are coming by land.')
     ELSE
       IF Looking = 'S'
       THEN
